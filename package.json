@@ -1,0 +1,20 @@
+{
+  "name": "koinx",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "sumit",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.2.1",
+    "coingecko-api": "^1.0.10",
+    "express": "^4.18.2",
+    "mongodb": "^4.12.1",
+    "mongoose": "^6.8.0",
+    "node-cron": "^3.0.2",
+    "request": "^2.88.2"
+  }
+}
